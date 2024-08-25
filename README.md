@@ -1,5 +1,9 @@
 # Guess the Number Game
 
+# Social:
+
+https://linktr.ee.com/pichtran
+
 ## Overview
 
 This smart contract implements a simple "Guess the Number" game on the Aptos blockchain. Players can bet APT coins and try to guess a randomly generated number between 1 and 10. If they guess correctly, they win double their bet; otherwise, they lose their bet.
